@@ -1,5 +1,8 @@
 # Formula-Derivation-Understanding-and-Perspectives
 
+## Claude AI Categorized by Purpose
+[[html original](https://claude.ai/share/cc2bcc9c-ecd8-45b1-b329-3b0077108edd)]() 
+
 # วิถีแรงสมดุลย์ f=0 และความหมายของ f = |r|
 
 > P_true มีหนึ่งเดียว แต่ P_apparent แตกต่างตามระยะและมุมมอง
