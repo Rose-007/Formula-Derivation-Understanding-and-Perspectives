@@ -1,5 +1,11 @@
 # Formula-Derivation-Understanding-and-Perspectives
+# ## ภาพประกอบจากโจทย์
 
+### สถานะ A: การสะสมพลังงาน (มองด้านเดียวกัน)
+![การสะสมพลังงาน](./%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%20%E0%B9%82%E0%B8%A5%E0%B8%81%20%E0%B8%A8%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B9%8C%20%E0%B8%9E%E0%B8%B8%E0%B80301.png)
+
+### สถานะ B: การคืนพลังงาน (มองคนละด้าน)
+![การคืนพลังงาน](./%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%20%E0%B9%82%E0%B8%A5%E0%B8%81%20%E0%B8%A8%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B9%8C%20%E0%B8%9E%E0%B8%B8%E0%B80301.png)
 ## Claude AI Categorized by Purpose
 [[html original](https://claude.ai/share/cc2bcc9c-ecd8-45b1-b329-3b0077108edd)]() 
 
